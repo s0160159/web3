@@ -7,7 +7,7 @@ body{
     .logo{
         font-family: 'Times New Roman', Times, serif;
         background: rgba(249, 218, 255, 0.329);
-        width: 100%;
+        width: 1024 px;
         display: flex;
     
         font-weight:bold;
