@@ -28,10 +28,10 @@ body{
       background-color: rgba(211, 0, 253, 0.363);
   }
     
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 480px){
     .topnav{
         margin: auto;
-        width: 400px;
+        width: 240px;
         height: 100px;
         justify-content: left;
         font-size: 100%;
