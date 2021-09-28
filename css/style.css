@@ -1,0 +1,140 @@
+
+body{
+    color: #8c50b4;
+    font-family: 'Rubik Beastly', cursive;
+    
+}
+
+.logo{
+    font-family: 'Times New Roman', Times, serif;
+    background: rgba(249, 218, 255, 0.329);
+    width: 100%;
+    display: flex;
+
+    font-weight:bold;
+    color: rgb(203, 162, 206);
+    font-size: 170%;
+    justify-content: left;
+}
+
+
+
+.topnav{
+      margin: auto;
+      width: 800px;
+      height: 100px;
+      justify-content: center;
+      font-size: 130%;
+      background-color: rgba(211, 0, 253, 0.363);
+  }
+    
+@media screen and (max-width: 1024px){
+    .topnav{
+        margin: auto;
+        width: 400px;
+        height: 100px;
+        justify-content: left;
+        font-size: 100%;
+        background-color: rgba(211, 0, 253, 0.363);
+    }
+}
+.spisok{
+    background-color: rgba(213, 45, 255, 0.384);
+}
+
+
+.tablitca{
+    color: rgb(241, 241, 241);
+    background-color: #dc6bff7a ;
+}
+
+.form{
+    background-color: rgba(232, 157, 255, 0.384);
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.graficlogo {
+padding: 5 px;
+max-width: 100%;
+box-sizing: border-box;
+}
+
+.podval{
+    background: rgba(249, 218, 255, 0.829);
+}
+  
+=======
+
+
+body{
+    color: #8c50b4;
+    font-family: 'Rubik Beastly', cursive;
+    
+}
+
+.logo{
+    font-family: 'Times New Roman', Times, serif;
+    background: rgba(249, 218, 255, 0.329);
+    width: 100%;
+    display: flex;
+
+    font-weight:bold;
+    color: rgb(203, 162, 206);
+    font-size: 170%;
+    justify-content: left;
+}
+
+.topnav{
+      margin: auto;
+      width: 800px;
+      height: 100px;
+      justify-content: center;
+      font-size: 130%;
+      background-color: rgba(211, 0, 253, 0.363);
+  }
+    
+
+.spisok{
+    background-color: rgba(213, 45, 255, 0.384);
+}
+
+
+.tablitca{
+    color: rgb(241, 241, 241);
+    background-color: #dc6bff7a ;
+}
+
+.form{
+    background-color: rgba(232, 157, 255, 0.384);
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.graficlogo {
+padding: 5 px;
+max-width: 100%;
+box-sizing: border-box;
+}
+
+.podval{
+    background: rgba(249, 218, 255, 0.829);
+}
+  
+>>>>>>> Stashed changes
